@@ -1,0 +1,15 @@
+{
+  "name": "typescript-demo",
+  "version": "1.0.0",
+  "description": "TypeScript demo for presentation",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/jakeols/typescript-demo"
+  },
+  "author": "Jake Ols",
+  "license": "ISC"
+}
