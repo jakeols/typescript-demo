@@ -1,3 +1,3 @@
-import primefinder from "./primefinder"
+import primefinder from "./primefinder";
 
 primefinder(1);

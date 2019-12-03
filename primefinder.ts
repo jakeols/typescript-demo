@@ -1,7 +1,7 @@
 /**
  * Export our default PrimeFinder function here
- * @param num 
+ * @param num
  */
 export default function (num: number) {
-    console.log('testing');
-} 
+    console.log("testing");
+}
